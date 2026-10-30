@@ -6,8 +6,7 @@ https://morphs-3d-cube.ai.studio/
 https://youtube.com/shorts/R37mhc31ZWM
 
 Morphs 3D Cube is a high-performance, volumetric match-3 puzzle game set inside a customizable, morphing holographic cyber-cube. Built with Three.js, WebGL, Web Audio API, and React, it transforms the classic 2D grid matching genre into a true three-dimensional spatial puzzle experience.
-🎮 Core Game Mechanics & Volumetric 3D Engine
-True 3D Grid ( Nodes):
+🎮 Core Game Mechanics & Volumetric 3D Engine True 3D Grid ( Nodes):
 Crystals are arranged throughout a 3D volumetric matrix. Matches can be formed across all 3 spatial dimensions: horizontally (
 ), vertically (), and through depth planes ().
 Full Orbit & Spatial Controls:
@@ -24,10 +23,10 @@ Matching 5 crystals creates a Hypercube (vaporizes every crystal of the targeted
 🕹️ 4 Distinct Game Modes
 Endless Mode:
 Relaxed, unbounded spatial match-3 play with persistent local high-score tracking.
+
 Blitz Mode:
 A 60-second high-adrenaline sprint to build maximum combos and rack up points before the timer runs out.
-Puzzle Mode (8 Handcrafted Mission Levels):
-Fixed move budgets with specific objectives (e.g., harvest 15 Cyan crystals, trigger Nova Bombs, or reach target score thresholds).
+Puzzle Mode (8 Handcrafted Mission Levels): Fixed move budgets with specific objectives (e.g., harvest 15 Cyan crystals, trigger Nova Bombs, or reach target score thresholds).
 Daily Challenge Mode:
 A unique procedural puzzle level generated fresh each day at UTC midnight from a deterministic seed.
 Compete on an identical 3D layout against the Global Daily Leaderboard with score, moves used, and max combo metrics.
